@@ -12,7 +12,7 @@ class Solution
     {
         // Code here
         // use pq 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        /*priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         vector<int> dist(V, INT_MAX);
         dist[S] = 0;
         pq.push({0, S});
@@ -26,6 +26,29 @@ class Solution
                 if (dis + edgeWeight < dist[adjNode]) {
                     dist[adjNode] = dis + edgeWeight;
                     pq.push({dist[adjNode], adjNode});
+                }
+            }
+        }
+        return dist;*/
+        // use set
+        set<pair<int, int>> st;
+        vector<int> dist(V, INT_MAX);
+        dist[S] = 0;
+        st.insert({0, S});
+        while(!st.empty()) {
+            auto it = *(st.begin());
+            int node = it.second;
+            int dis = it .first;
+            st.erase(it);
+            for (auto nbr : adj[node]) {
+                int adjNode = nbr[0];
+                int edgeWeight = nbr[1];
+                if (dis + edgeWeight < dist[adjNode]) {
+                    if (dist[adjNode] != INT_MAX) {
+                        st.erase({dist[adjNode], adjNode});
+                    }
+                    dist[adjNode] = dis + edgeWeight;
+                    st.insert({dist[adjNode], adjNode});
                 }
             }
         }
