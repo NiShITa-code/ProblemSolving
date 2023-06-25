@@ -24,27 +24,27 @@ class Solution
                maxVal[0][w] = val[0];
            }
        }*/
-       vector<int> maxVal(W+1, 0);
+       vector<int> prevMaxVal(W+1, 0);
        for (int w = wt[0]; w <= W; w++) {
-           maxVal[w]= val[0];
+           prevMaxVal[w]= val[0];
        }
        for (int i = 1; i < n; i++) {
            //if i want to take this item its weigth should be less than capacity W
            // if we dont steel thsi item max value till now is same as max val tll i - 1
         for (int w = W; w >= 0; w--) {
            //int dontSteel = maxVal[i - 1][w];
-           int dontSteel = maxVal[w];
+           int dontSteel = prevMaxVal[w];
            int steel = INT_MIN;
            if (wt[i] <= w) {
                //steel = maxVal[i - 1][w - wt[i]] + val[i];
-               steel = maxVal[w - wt[i]] + val[i];
+               steel = prevMaxVal[w - wt[i]] + val[i];
            }
           // maxVal[i][w] = max(steel, dontSteel);
-           maxVal[w] = max(dontSteel, steel); 
+           prevMaxVal[w] = max(dontSteel, steel); 
         }   
        }
        //return maxVal[n - 1][W];
-       return maxVal[W];
+       return prevMaxVal[W];
     }
 };
 
