@@ -32,9 +32,9 @@ public:
                 for (auto nbr: adj[node]) {
                     int adjPoint = nbr.first;
                     int edgeWt = nbr.second;
-                    
+                    if (!visited[adjPoint]) {
                         nextMinNode.push({edgeWt, adjPoint});
-                    
+                    }
                 }
             }
 
