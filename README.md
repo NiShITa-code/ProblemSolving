@@ -8,6 +8,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Bit Manipulation
 |  |
@@ -23,6 +24,7 @@ Collection of Problem Solving solutions
 | [0020-valid-parentheses](https://github.com/NiShITa-code/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/NiShITa-code/ProblemSolving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -35,4 +37,5 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
