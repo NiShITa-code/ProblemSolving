@@ -15,6 +15,7 @@ Collection of Problem Solving solutions
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +98,12 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
