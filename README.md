@@ -11,6 +11,7 @@ Collection of Problem Solving solutions
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -116,6 +117,7 @@ Collection of Problem Solving solutions
 ## Matrix
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Trie
 |  |
@@ -125,8 +127,13 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Math
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
