@@ -9,6 +9,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -39,6 +40,7 @@ Collection of Problem Solving solutions
 | [0155-min-stack](https://github.com/NiShITa-code/ProblemSolving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of Problem Solving solutions
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
