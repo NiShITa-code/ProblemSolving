@@ -19,6 +19,7 @@ Collection of Problem Solving solutions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -49,6 +50,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
@@ -64,6 +66,7 @@ Collection of Problem Solving solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -102,6 +105,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Graph Theory
 |  |
 | ------- |
