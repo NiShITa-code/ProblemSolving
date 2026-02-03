@@ -34,6 +34,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiShITa-code/ProblemSolving/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
@@ -41,6 +42,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiShITa-code/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/NiShITa-code/ProblemSolving/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -59,6 +61,7 @@ Collection of Problem Solving solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
@@ -97,6 +100,7 @@ Collection of Problem Solving solutions
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
