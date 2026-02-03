@@ -1,38 +1,29 @@
 class Solution {
 public:
-
-
     bool isTrionic(vector<int>& nums) {
-        int n = nums.size();
-        if (n < 4) return false;  // Minimum length to form 3 segments
+        int i = 0, n = nums.size();
 
-        int i = 1;
+        // Phase 1: increasing
+        while (i < n - 1 && nums[i + 1] > nums[i]) i++;
+        int p = i;
 
-        // Phase 1: strictly increasing
-        while (i < n && nums[i] > nums[i - 1]) {
-            i++;
-        }
+        if (p == 0) return false;  // no increase
 
-        // Need at least one increase and cannot end here
-        if (i == 1 || i == n) return false;
-
-        // Phase 2: strictly decreasing
+        // Phase 2: decreasing
         int decStart = i;
-        while (i < n && nums[i] < nums[i - 1]) {
-            i++;
-        }
+        while (i < n - 1 && nums[i + 1] < nums[i]) i++;
+        int q = i;
 
-        // Need at least one decrease and cannot end here
-        if (i == decStart || i == n) return false;
+        if (q == decStart) return false;  // no decrease
 
-        // Phase 3: strictly increasing
+        // Phase 3: increasing
         int inc2Start = i;
-        while (i < n && nums[i] > nums[i - 1]) {
-            i++;
-        }
+        while (i < n - 1 && nums[i + 1] > nums[i]) i++;
 
-        // Need at least one increase in phase 3 and must reach end
-        return (i == n && inc2Start < n);
+        if (i == inc2Start) return false; // no final increase
+
+        return i == n - 1;
     }
-
 };
+
+
