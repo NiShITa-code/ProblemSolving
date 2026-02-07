@@ -38,6 +38,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiShITa-code/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
@@ -49,6 +50,7 @@ Collection of Problem Solving solutions
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -135,6 +137,7 @@ Collection of Problem Solving solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
