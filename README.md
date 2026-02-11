@@ -40,6 +40,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiShITa-code/ProblemSolving/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/NiShITa-code/ProblemSolving/tree/master/0038-count-and-say) |
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
