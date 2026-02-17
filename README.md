@@ -38,6 +38,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/NiShITa-code/ProblemSolving/tree/master/0401-binary-watch) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String
 |  |
@@ -236,4 +237,8 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3713-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/NiShITa-code/ProblemSolving/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
