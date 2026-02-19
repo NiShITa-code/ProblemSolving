@@ -48,6 +48,7 @@ Collection of Problem Solving solutions
 | [0038-count-and-say](https://github.com/NiShITa-code/ProblemSolving/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
+| [0696-count-binary-substrings](https://github.com/NiShITa-code/ProblemSolving/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -120,6 +121,7 @@ Collection of Problem Solving solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/NiShITa-code/ProblemSolving/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
