@@ -49,6 +49,7 @@ Collection of Problem Solving solutions
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/NiShITa-code/ProblemSolving/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -132,6 +133,7 @@ Collection of Problem Solving solutions
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -224,6 +226,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3721-longest-balanced-subarray-ii) |
