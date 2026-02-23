@@ -42,6 +42,7 @@ Collection of Problem Solving solutions
 | [0693-binary-number-with-alternating-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/NiShITa-code/ProblemSolving/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String
 |  |
@@ -52,6 +53,7 @@ Collection of Problem Solving solutions
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/NiShITa-code/ProblemSolving/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -76,6 +78,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -250,4 +253,12 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/NiShITa-code/ProblemSolving/tree/master/0401-binary-watch) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
