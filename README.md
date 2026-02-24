@@ -208,17 +208,20 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
