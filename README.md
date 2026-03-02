@@ -17,6 +17,7 @@ Collection of Problem Solving solutions
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
@@ -144,6 +145,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -188,6 +190,7 @@ Collection of Problem Solving solutions
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Trie
 |  |
