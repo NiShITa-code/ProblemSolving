@@ -1,77 +1,44 @@
+#include <unordered_map>
+#include <list>
+using namespace std;
+
 class LRUCache {
-private:
-    struct Node {
-        int key, val;
-        Node* next;
-        Node* prev;
-        Node(int k, int v) {
-            key = k;
-            val = v;
-            prev = next = nullptr;
-        }
-    };
-
-    int capacity;
-    unordered_map<int, Node*>mp;
-    Node* head;
-    Node* tail;
-
-    void remove(Node* node) {
-        node -> prev -> next = node -> next;
-        node -> next -> prev = node -> prev; 
-    }
-
-    void insert(Node* node) {
-        node -> next = head -> next;
-        node -> prev = head;
-        head -> next -> prev = node;
-        head -> next = node;
-    }
+    int cap;
+    // front = most recently used, back = least recently used
+    list<pair<int,int>> dll; // {key, value}
+    unordered_map<int, list<pair<int,int>>::iterator> mp; // key -> iterator in dll
 
 public:
-    LRUCache(int capacity) {
-        this -> capacity = capacity;
-        head = new Node(-1, -1);
-        tail = new Node(-1, -1);
-        head -> next = tail;
-        tail -> prev = head;
-    }
-    
-    int get(int key) {
-        if (mp.find(key) == mp.end()){
-            return -1;
-        } 
-        Node* node = mp[key];
-        remove(node);
-        insert(node);
-        return node -> val;
-    }
-    
-    void put(int key, int value) {
-        if(mp.find(key) != mp.end()) {
-            Node* node = mp[key];
-            node->val = value;
-            remove(node);
-            insert(node);
-        } 
-        else {
-            if(mp.size() == capacity) {
-                Node* lru = tail->prev;
-                mp.erase(lru->key);
-                remove(lru);
-            }
+    LRUCache(int capacity) : cap(capacity) {}
 
-            Node* node = new Node(key, value);
-            mp[key] = node;
-            insert(node);
+    int get(int key) {
+        auto it = mp.find(key);
+        if (it == mp.end()) return -1;
+
+        // move accessed node to front (MRU)
+        dll.splice(dll.begin(), dll, it->second);
+        return it->second->second; // value
+    }
+
+    void put(int key, int value) {
+        auto it = mp.find(key);
+
+        if (it != mp.end()) {
+            // update value + move to front
+            it->second->second = value;
+            dll.splice(dll.begin(), dll, it->second);
+            return;
         }
-        
+
+        // evict if full
+        if ((int)mp.size() == cap) {
+            int lruKey = dll.back().first;
+            mp.erase(lruKey);
+            dll.pop_back();
+        }
+
+        // insert new at front
+        dll.emplace_front(key, value);
+        mp[key] = dll.begin();
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
