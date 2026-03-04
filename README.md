@@ -83,10 +83,12 @@ Collection of Problem Solving solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NiShITa-code/ProblemSolving/tree/master/0155-min-stack) |
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -106,6 +108,7 @@ Collection of Problem Solving solutions
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -130,6 +133,7 @@ Collection of Problem Solving solutions
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
