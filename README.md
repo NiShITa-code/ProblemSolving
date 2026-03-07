@@ -9,6 +9,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/NiShITa-code/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
+| [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ Collection of Problem Solving solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
 | [0799-champagne-tower](https://github.com/NiShITa-code/ProblemSolving/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NiShITa-code/ProblemSolving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
