@@ -163,6 +163,7 @@ Collection of Problem Solving solutions
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -223,6 +225,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +276,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
@@ -313,4 +317,8 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
