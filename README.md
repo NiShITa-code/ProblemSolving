@@ -94,6 +94,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NiShITa-code/ProblemSolving/tree/master/0155-min-stack) |
+| [1622-fancy-sequence](https://github.com/NiShITa-code/ProblemSolving/tree/master/1622-fancy-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Collection of Problem Solving solutions
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/NiShITa-code/ProblemSolving/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -299,6 +301,7 @@ Collection of Problem Solving solutions
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/NiShITa-code/ProblemSolving/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
