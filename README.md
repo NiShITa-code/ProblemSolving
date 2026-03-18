@@ -15,6 +15,7 @@ Collection of Problem Solving solutions
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -224,6 +225,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -292,6 +294,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
