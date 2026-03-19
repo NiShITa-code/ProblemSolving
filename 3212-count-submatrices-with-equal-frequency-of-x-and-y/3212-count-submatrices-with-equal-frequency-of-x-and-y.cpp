@@ -1,29 +1,35 @@
 class Solution {
 public:
     int numberOfSubmatrices(vector<vector<char>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-
-        vector<int> xCol(cols, 0), yCol(cols, 0);
+        int rows = grid.size(), cols = grid[0].size();
+        
+        vector<int> diff(cols, 0);   // stores (countX - countY)
+        vector<int> hasX(cols, 0);   // whether rectangle has at least one X
+        
         int ans = 0;
 
         for (int i = 0; i < rows; i++) {
-            int rowX = 0, rowY = 0;
+            int rowDiff = 0;   // current row prefix diff
+            int rowHasX = 0;   // whether current row prefix has X
 
             for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 'X') rowX++;
-                else if (grid[i][j] == 'Y') rowY++;
+                if (grid[i][j] == 'X') {
+                    rowDiff++;
+                    rowHasX = 1;
+                } 
+                else if (grid[i][j] == 'Y') {
+                    rowDiff--;
+                }
 
-                xCol[j] += rowX;
-                yCol[j] += rowY;
+                diff[j] += rowDiff;
+                hasX[j] |= rowHasX;
 
-                if (xCol[j] == yCol[j] && xCol[j] > 0) {
+                if (hasX[j] && diff[j] == 0) {
                     ans++;
                 }
             }
         }
 
         return ans;
-        
     }
 };
