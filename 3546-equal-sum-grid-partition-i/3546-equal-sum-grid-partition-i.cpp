@@ -16,7 +16,7 @@ public:
 
         // horizontal cut
         long long topPartSum = 0;
-        for (int r = 0; r < n; r++) {
+        for (int r = 0; r < n - 1; r++) {
             for (int c = 0; c < m; c++) {
                 topPartSum += grid[r][c];
             }
@@ -26,7 +26,7 @@ public:
         }
 
         long long leftPartSum = 0;
-        for (int c = 0; c < m; c++) {
+        for (int c = 0; c < m - 1; c++) {
             for (int r = 0; r < n; r++) {
                 leftPartSum += grid[r][c];
             }
