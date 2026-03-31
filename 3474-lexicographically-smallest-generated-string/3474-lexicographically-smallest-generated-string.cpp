@@ -1,69 +1,98 @@
 class Solution {
 public:
+    // For each index i:
+    // returns how many characters from i match prefix
+    vector<int> computePrefixMatchLength(const string &s) {
+        int n = s.size();
+        vector<int> matchLen(n);
+        int left = 0, right = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (i <= right) {
+                matchLen[i] = min(matchLen[i - left], right - i + 1);
+            }
+
+            while (i + matchLen[i] < n && s[matchLen[i]] == s[i + matchLen[i]]) {
+                matchLen[i]++;
+            }
+
+            if (i + matchLen[i] - 1 > right) {
+                left = i;
+                right = i + matchLen[i] - 1;
+            }
+        }
+
+        matchLen[0] = n;
+        return matchLen;
+    }
+
     string generateString(string str1, string str2) {
         int n = str1.size();
         int m = str2.size();
-        int len = n + m - 1;
+        int totalLen = n + m - 1;
 
-        string word(len, '?');
-        vector<bool> fixed(len, false);
+        string result(totalLen, '?');
 
-        // Step 1: Apply 'T'
+        // Prefix matching info for str2
+        vector<int> prefixMatch = computePrefixMatchLength(str2);
+        // Step 1: Apply all 'T' constraints
+        int lastTStart = -m;
+
         for (int i = 0; i < n; i++) {
-            if (str1[i] == 'T') {
-                for (int j = 0; j < m; j++) {
-                    int pos = i + j;
+            if (str1[i] == 'F') continue;
 
-                    if (word[pos] != '?' && word[pos] != str2[j]) {
-                        return ""; // conflict
-                    }
+            int overlap = max(0, lastTStart + m - i);
 
-                    word[pos] = str2[j];
-                    fixed[pos] = true;
-                }
+            // Check if overlap is valid
+            if (overlap > 0 && prefixMatch[m - overlap] < overlap) {
+                return "";
             }
+
+            // Fill remaining characters
+            for (int j = overlap; j < m; j++) {
+                result[i + j] = str2[j];
+            }
+
+            lastTStart = i;
         }
 
-        // Step 2: fill remaining with 'a'
-        for (int i = 0; i < len; i++) {
-            if (word[i] == '?') {
-                word[i] = 'a';
+        // Step 2: Fill remaining '?' with 'a'
+        // Track last editable position
+        vector<int> lastEditable(totalLen);
+        int lastFree = -1;
+
+        for (int i = 0; i < totalLen; i++) {
+            if (result[i] == '?') {
+                result[i] = 'a';
+                lastFree = i;
             }
+            lastEditable[i] = lastFree;
         }
 
-        // Step 3: handle 'F'
+        // Step 3: Handle 'F' constraint
+
+        // Build prefix match info for (str2 + result)
+        vector<int> combinedMatch = computePrefixMatchLength(str2 + result);
+
         for (int i = 0; i < n; i++) {
-            if (str1[i] == 'F') {
+            if (str1[i] == 'T') continue;
 
-                // check if equal
-                bool same = true;
-                for (int j = 0; j < m; j++) {
-                    if (word[i + j] != str2[j]) {
-                        same = false;
-                        break;
-                    }
-                }
+            // If substring equals str2 → need to break
+            if (combinedMatch[m + i] < m) continue;
 
-                if (!same) continue;
+            int changePos = lastEditable[i + m - 1];
 
-                // need to break it
-                bool changed = false;
-
-                for (int j = m - 1; j >= 0; j--) {
-                    int pos = i + j;
-
-                    if (!fixed[pos]) {
-                        // change to something different
-                        word[pos] = (str2[j] == 'a') ? 'b' : 'a';
-                        changed = true;
-                        break;
-                    }
-                }
-
-                if (!changed) return "";
+            if (changePos < i) {
+                return ""; // cannot modify
             }
+
+            // Change this position to break match
+            result[changePos] = 'b';
+
+            // Skip forward
+            i = changePos;
         }
 
-        return word;
+        return result;
     }
 };
