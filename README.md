@@ -31,6 +31,7 @@ Collection of Problem Solving solutions
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-find-the-string-with-lcp](https://github.com/NiShITa-code/ProblemSolving/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NiShITa-code/ProblemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -107,6 +108,7 @@ Collection of Problem Solving solutions
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
+| [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of Problem Solving solutions
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NiShITa-code/ProblemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NiShITa-code/ProblemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -206,6 +209,7 @@ Collection of Problem Solving solutions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
