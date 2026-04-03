@@ -54,6 +54,7 @@ Collection of Problem Solving solutions
 | [3640-trionic-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NiShITa-code/ProblemSolving/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NiShITa-code/ProblemSolving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
@@ -215,6 +216,7 @@ Collection of Problem Solving solutions
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NiShITa-code/ProblemSolving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Collection of Problem Solving solutions
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NiShITa-code/ProblemSolving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NiShITa-code/ProblemSolving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -285,6 +288,7 @@ Collection of Problem Solving solutions
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NiShITa-code/ProblemSolving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
