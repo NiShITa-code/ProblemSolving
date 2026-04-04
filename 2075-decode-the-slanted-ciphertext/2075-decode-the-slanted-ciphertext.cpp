@@ -1,43 +1,46 @@
 class Solution {
 public:
     string decodeCiphertext(string encodedText, int rows) {
-        // If empty, nothing to decode
         if (encodedText.empty()) return "";
 
-        int totalLen = encodedText.size();
+        int cols = encodedText.length() / rows;
+        string decoded = "";
 
-        // Number of columns in the matrix
-        // because matrix is filled row-wise:
-        // totalLen = rows * cols
-        int cols = totalLen / rows;
+        // currentRow, currentCol -> current position in the matrix
+        int currentRow = 0, currentCol = 0;
 
-        string result;
+        // diagonalStartCol -> the starting column of the current diagonal
+        int diagonalStartCol = 0;
 
-        // Optional optimization: avoid resizing overhead
-        result.reserve(totalLen);
+        while (currentRow < rows && currentCol < cols) {
+            // Convert 2D position (currentRow, currentCol)
+            // into index in the 1D encodedText string
+            decoded += encodedText[currentRow * cols + currentCol];
 
-        // We start from each column in the first row
-        for (int startCol = 0; startCol < cols; startCol++) {
+            // If we are at the starting cell of the last diagonal,
+            // then after taking it there are no more diagonals left.
+            if (currentRow == 0 && currentCol == cols - 1) {
+                break;
+            }
 
-            int r = 0;              // start from row 0
-            int c = startCol;       // start from this column
+            // Move diagonally down-right
+            currentRow++;
+            currentCol++;
 
-            // Move diagonally: (r+1, c+1)
-            while (r < rows && c < cols) {
-
-                // Convert (r, c) → index in 1D string
-                result.push_back(encodedText[r * cols + c]);
-
-                r++;
-                c++;
+            // If we go past the last row,
+            // start the next diagonal from the top row
+            if (currentRow == rows) {
+                diagonalStartCol++;
+                currentRow = 0;
+                currentCol = diagonalStartCol;
             }
         }
 
-        // Remove trailing spaces (these were padding cells)
-        while (!result.empty() && result.back() == ' ') {
-            result.pop_back();
+        // Remove trailing spaces added during encoding
+        while (!decoded.empty() && decoded.back() == ' ') {
+            decoded.pop_back();
         }
 
-        return result;
+        return decoded;
     }
 };
