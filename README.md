@@ -15,6 +15,7 @@ Collection of Problem Solving solutions
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -123,6 +124,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -162,6 +164,7 @@ Collection of Problem Solving solutions
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NiShITa-code/ProblemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
