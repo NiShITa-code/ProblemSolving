@@ -61,6 +61,7 @@ Collection of Problem Solving solutions
 | [3719-longest-balanced-subarray-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of Problem Solving solutions
 | [3719-longest-balanced-subarray-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
