@@ -12,6 +12,7 @@ Collection of Problem Solving solutions
 | [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -197,6 +198,7 @@ Collection of Problem Solving solutions
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -223,6 +225,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NiShITa-code/ProblemSolving/tree/master/0056-merge-intervals) |
+| [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 | [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -241,6 +244,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NiShITa-code/ProblemSolving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -429,4 +433,8 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3474-lexicographically-smallest-generated-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
