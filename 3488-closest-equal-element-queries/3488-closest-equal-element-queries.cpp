@@ -1,43 +1,30 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
-public:
+    public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
         int n = nums.size();
-        
-        unordered_map<int, vector<int>> pos;
-        pos.reserve(n * 2);
+        vector<int> minDist(n, n);
+        unordered_map<int, int> lastSeen;
 
-        for (int i = 0; i < n; ++i) {
-            pos[nums[i]].push_back(i);
+        for (int i = 0; i < 2 * n; ++i) {
+        int idx = i % n;
+        int val = nums[idx];
+
+        if (lastSeen.count(val)) {
+            int last = lastSeen[val];      // position in doubled traversal
+            int prevIdx = last % n;        // original array index
+            int dist = i - last;           // actual distance in doubled traversal
+
+            minDist[idx] = min(minDist[idx], dist);
+            minDist[prevIdx] = min(minDist[prevIdx], dist);
         }
 
-        vector<int> best(n, -1);
-
-        for (auto& [val, v] : pos) {
-            int sz = v.size();
-            if (sz == 1) continue;
-
-            for (int i = 0; i < sz; ++i) {
-                int cur = v[i];
-                int prev = v[(i - 1 + sz) % sz];
-                int next = v[(i + 1) % sz];
-
-                int d1 = abs(cur - prev);
-                d1 = min(d1, n - d1);
-
-                int d2 = abs(cur - next);
-                d2 = min(d2, n - d2);
-
-                best[cur] = min(d1, d2);
-            }
+        lastSeen[val] = i;
         }
 
         vector<int> ans;
         ans.reserve(queries.size());
         for (int q : queries) {
-            ans.push_back(best[q]);
+        ans.push_back(minDist[q] == n ? -1 : minDist[q]);
         }
 
         return ans;
