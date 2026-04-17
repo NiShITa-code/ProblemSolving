@@ -10,7 +10,8 @@ public:
     }
     int minMirrorPairDistance(vector<int>& nums) {
         unordered_map<int,int> mp;
-        int minDist = INT_MAX;
+        int n = nums.size();
+        int minDist = n;
         for (int i = 0; i < nums.size(); i++) {
             if (mp.count(nums[i])) {
                 minDist = min(minDist, i - mp[nums[i]]);
@@ -18,6 +19,6 @@ public:
             int reversedNum = reverseNumber(nums[i]);
             mp[reversedNum] = i;
         }
-        return minDist == INT_MAX ? -1 : minDist;
+        return minDist == n ? -1 : minDist;
     }
 };
