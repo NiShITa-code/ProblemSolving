@@ -41,6 +41,7 @@ Collection of Problem Solving solutions
 | [2463-minimum-total-distance-traveled](https://github.com/NiShITa-code/ProblemSolving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/NiShITa-code/ProblemSolving/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/NiShITa-code/ProblemSolving/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NiShITa-code/ProblemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -147,6 +148,7 @@ Collection of Problem Solving solutions
 | [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/NiShITa-code/ProblemSolving/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/NiShITa-code/ProblemSolving/tree/master/3488-closest-equal-element-queries) |
@@ -351,6 +353,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/NiShITa-code/ProblemSolving/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
