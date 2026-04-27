@@ -383,6 +383,7 @@ Collection of Problem Solving solutions
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -390,6 +391,7 @@ Collection of Problem Solving solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
@@ -401,6 +403,7 @@ Collection of Problem Solving solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -408,6 +411,7 @@ Collection of Problem Solving solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
