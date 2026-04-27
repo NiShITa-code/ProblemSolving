@@ -386,6 +386,7 @@ Collection of Problem Solving solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -395,6 +396,7 @@ Collection of Problem Solving solutions
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -406,6 +408,7 @@ Collection of Problem Solving solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
