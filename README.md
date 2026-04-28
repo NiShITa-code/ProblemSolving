@@ -287,6 +287,7 @@ Collection of Problem Solving solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
 | [0799-champagne-tower](https://github.com/NiShITa-code/ProblemSolving/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -390,6 +391,7 @@ Collection of Problem Solving solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/NiShITa-code/ProblemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
@@ -400,6 +402,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -415,6 +418,7 @@ Collection of Problem Solving solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/NiShITa-code/ProblemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
