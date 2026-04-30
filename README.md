@@ -149,6 +149,7 @@ Collection of Problem Solving solutions
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/NiShITa-code/ProblemSolving/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/NiShITa-code/ProblemSolving/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
@@ -276,6 +277,7 @@ Collection of Problem Solving solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/NiShITa-code/ProblemSolving/tree/master/0133-clone-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -410,6 +412,7 @@ Collection of Problem Solving solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/NiShITa-code/ProblemSolving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -436,6 +439,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NiShITa-code/ProblemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/NiShITa-code/ProblemSolving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
