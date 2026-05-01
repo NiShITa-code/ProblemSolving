@@ -13,6 +13,7 @@ Collection of Problem Solving solutions
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
+| [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -293,6 +294,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiShITa-code/ProblemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/NiShITa-code/ProblemSolving/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -358,6 +360,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/NiShITa-code/ProblemSolving/tree/master/1622-fancy-sequence) |
