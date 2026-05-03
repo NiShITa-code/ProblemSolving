@@ -105,6 +105,7 @@ Collection of Problem Solving solutions
 | [0402-remove-k-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/NiShITa-code/ProblemSolving/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NiShITa-code/ProblemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NiShITa-code/ProblemSolving/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -512,6 +513,7 @@ Collection of Problem Solving solutions
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
