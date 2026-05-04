@@ -7,6 +7,7 @@ Collection of Problem Solving solutions
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NiShITa-code/ProblemSolving/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/NiShITa-code/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
@@ -316,6 +317,7 @@ Collection of Problem Solving solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NiShITa-code/ProblemSolving/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
@@ -361,6 +363,7 @@ Collection of Problem Solving solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NiShITa-code/ProblemSolving/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
