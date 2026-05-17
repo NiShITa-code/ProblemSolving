@@ -11,6 +11,7 @@ Collection of Problem Solving solutions
 | [0056-merge-intervals](https://github.com/NiShITa-code/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/NiShITa-code/ProblemSolving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
@@ -379,6 +380,7 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NiShITa-code/ProblemSolving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
