@@ -24,6 +24,7 @@ Collection of Problem Solving solutions
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -455,6 +456,7 @@ Collection of Problem Solving solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -480,6 +482,7 @@ Collection of Problem Solving solutions
 | [0200-number-of-islands](https://github.com/NiShITa-code/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NiShITa-code/ProblemSolving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
