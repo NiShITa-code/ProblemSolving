@@ -26,6 +26,7 @@ Collection of Problem Solving solutions
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/NiShITa-code/ProblemSolving/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -169,6 +170,7 @@ Collection of Problem Solving solutions
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/NiShITa-code/ProblemSolving/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NiShITa-code/ProblemSolving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1980-find-unique-binary-string) |
@@ -485,6 +487,7 @@ Collection of Problem Solving solutions
 | [0226-invert-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/NiShITa-code/ProblemSolving/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NiShITa-code/ProblemSolving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
