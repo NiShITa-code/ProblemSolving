@@ -134,6 +134,7 @@ Collection of Problem Solving solutions
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NiShITa-code/ProblemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NiShITa-code/ProblemSolving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/NiShITa-code/ProblemSolving/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -310,6 +311,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
+| [1871-jump-game-vii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NiShITa-code/ProblemSolving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -340,6 +342,7 @@ Collection of Problem Solving solutions
 | [1340-jump-game-v](https://github.com/NiShITa-code/ProblemSolving/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NiShITa-code/ProblemSolving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NiShITa-code/ProblemSolving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/NiShITa-code/ProblemSolving/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/NiShITa-code/ProblemSolving/tree/master/2573-find-the-string-with-lcp) |
@@ -431,6 +434,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NiShITa-code/ProblemSolving/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/NiShITa-code/ProblemSolving/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/2906-construct-product-matrix) |
