@@ -71,6 +71,7 @@ Collection of Problem Solving solutions
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/NiShITa-code/ProblemSolving/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NiShITa-code/ProblemSolving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -147,6 +148,7 @@ Collection of Problem Solving solutions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/NiShITa-code/ProblemSolving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -399,6 +401,7 @@ Collection of Problem Solving solutions
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NiShITa-code/ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/NiShITa-code/ProblemSolving/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search
 |  |
 | ------- |
