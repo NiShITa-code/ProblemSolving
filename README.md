@@ -53,6 +53,7 @@ Collection of Problem Solving solutions
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NiShITa-code/ProblemSolving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/NiShITa-code/ProblemSolving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NiShITa-code/ProblemSolving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NiShITa-code/ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/NiShITa-code/ProblemSolving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -287,6 +288,7 @@ Collection of Problem Solving solutions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NiShITa-code/ProblemSolving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NiShITa-code/ProblemSolving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NiShITa-code/ProblemSolving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/NiShITa-code/ProblemSolving/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -307,6 +309,7 @@ Collection of Problem Solving solutions
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NiShITa-code/ProblemSolving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/NiShITa-code/ProblemSolving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NiShITa-code/ProblemSolving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/NiShITa-code/ProblemSolving/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/NiShITa-code/ProblemSolving/tree/master/2784-check-if-array-is-good) |
