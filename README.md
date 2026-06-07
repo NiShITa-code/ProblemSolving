@@ -54,6 +54,7 @@ Collection of Problem Solving solutions
 | [2104-sum-of-subarray-ranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/NiShITa-code/ProblemSolving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NiShITa-code/ProblemSolving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NiShITa-code/ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/NiShITa-code/ProblemSolving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -192,6 +193,7 @@ Collection of Problem Solving solutions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NiShITa-code/ProblemSolving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/NiShITa-code/ProblemSolving/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/NiShITa-code/ProblemSolving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/NiShITa-code/ProblemSolving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -496,6 +498,7 @@ Collection of Problem Solving solutions
 | [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -525,6 +528,7 @@ Collection of Problem Solving solutions
 | [0543-diameter-of-binary-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NiShITa-code/ProblemSolving/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/NiShITa-code/ProblemSolving/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
