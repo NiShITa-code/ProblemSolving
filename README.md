@@ -98,6 +98,7 @@ Collection of Problem Solving solutions
 | [3548-equal-sum-grid-partition-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NiShITa-code/ProblemSolving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/3634-minimum-removals-to-balance-array) |
@@ -262,6 +263,7 @@ Collection of Problem Solving solutions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
@@ -388,6 +390,7 @@ Collection of Problem Solving solutions
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -395,6 +398,7 @@ Collection of Problem Solving solutions
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NiShITa-code/ProblemSolving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
@@ -419,6 +423,7 @@ Collection of Problem Solving solutions
 | [3225-maximum-score-from-grid-operations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NiShITa-code/ProblemSolving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/NiShITa-code/ProblemSolving/tree/master/3660-jump-game-ix) |
@@ -483,6 +488,7 @@ Collection of Problem Solving solutions
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NiShITa-code/ProblemSolving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/NiShITa-code/ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NiShITa-code/ProblemSolving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NiShITa-code/ProblemSolving/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -697,4 +703,8 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
