@@ -26,6 +26,7 @@ Collection of Problem Solving solutions
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NiShITa-code/ProblemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NiShITa-code/ProblemSolving/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/NiShITa-code/ProblemSolving/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -213,6 +214,7 @@ Collection of Problem Solving solutions
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/NiShITa-code/ProblemSolving/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/NiShITa-code/ProblemSolving/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NiShITa-code/ProblemSolving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NiShITa-code/ProblemSolving/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -355,6 +357,7 @@ Collection of Problem Solving solutions
 | [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
 | [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NiShITa-code/ProblemSolving/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NiShITa-code/ProblemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NiShITa-code/ProblemSolving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
