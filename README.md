@@ -89,6 +89,7 @@ Collection of Problem Solving solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NiShITa-code/ProblemSolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NiShITa-code/ProblemSolving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NiShITa-code/ProblemSolving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -435,6 +436,7 @@ Collection of Problem Solving solutions
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/NiShITa-code/ProblemSolving/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NiShITa-code/ProblemSolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NiShITa-code/ProblemSolving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -526,6 +528,7 @@ Collection of Problem Solving solutions
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NiShITa-code/ProblemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NiShITa-code/ProblemSolving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NiShITa-code/ProblemSolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NiShITa-code/ProblemSolving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NiShITa-code/ProblemSolving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -714,6 +717,7 @@ Collection of Problem Solving solutions
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NiShITa-code/ProblemSolving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NiShITa-code/ProblemSolving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Indexed Tree
 |  |
