@@ -19,6 +19,7 @@ Collection of Problem Solving solutions
 | [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/NiShITa-code/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
@@ -369,6 +370,7 @@ Collection of Problem Solving solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/NiShITa-code/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0220-contains-duplicate-iii](https://github.com/NiShITa-code/ProblemSolving/tree/master/0220-contains-duplicate-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/NiShITa-code/ProblemSolving/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/NiShITa-code/ProblemSolving/tree/master/1331-rank-transform-of-an-array) |
@@ -532,6 +534,7 @@ Collection of Problem Solving solutions
 | [0048-rotate-image](https://github.com/NiShITa-code/ProblemSolving/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/NiShITa-code/ProblemSolving/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/NiShITa-code/ProblemSolving/tree/master/1344-angle-between-hands-of-a-clock) |
