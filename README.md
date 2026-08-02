@@ -23,6 +23,7 @@ Collection of Problem Solving solutions
 | [0735-asteroid-collision](https://github.com/NiShITa-code/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NiShITa-code/ProblemSolving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/NiShITa-code/ProblemSolving/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/NiShITa-code/ProblemSolving/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/NiShITa-code/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/NiShITa-code/ProblemSolving/tree/master/1260-shift-2d-grid) |
@@ -444,6 +445,7 @@ Collection of Problem Solving solutions
 | [0396-rotate-function](https://github.com/NiShITa-code/ProblemSolving/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/NiShITa-code/ProblemSolving/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/NiShITa-code/ProblemSolving/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NiShITa-code/ProblemSolving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/NiShITa-code/ProblemSolving/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NiShITa-code/ProblemSolving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -542,6 +544,7 @@ Collection of Problem Solving solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/NiShITa-code/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NiShITa-code/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/NiShITa-code/ProblemSolving/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/NiShITa-code/ProblemSolving/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/NiShITa-code/ProblemSolving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/NiShITa-code/ProblemSolving/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/NiShITa-code/ProblemSolving/tree/master/1622-fancy-sequence) |
@@ -766,4 +769,8 @@ Collection of Problem Solving solutions
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/NiShITa-code/ProblemSolving/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NiShITa-code/ProblemSolving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
